@@ -1,4 +1,6 @@
 # code-challenges
+
+[![Join the chat at https://gitter.im/grantjoy/code-challenges](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/grantjoy/code-challenges?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Taking on coding challenges in a variety of languages.
 ## Challenges
 Challenge | Language | Status
