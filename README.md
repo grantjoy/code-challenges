@@ -5,10 +5,10 @@
 Taking on CodeEval challenges.
 
 ### Challenges
-Challenge | Language | Status
-----------|----------|--------
-[Fizz Buzz](https://www.codeeval.com/open_challenges/1/) | Lua | Complete 
-[Reverse Words](https://www.codeeval.com/open_challenges/8/) | Go | Complete
-[Chardonnay or Cabernet](https://www.codeeval.com/open_challenges/211/) | Python 2.7 | Complete
-[Detecting Cycles](https://www.codeeval.com/open_challenges/5/) | JavaScript | Incomplete
-[The Frequency](https://www.codeeval.com/open_challenges/168/) | Ruby | Incomplete
+Challenge | Language | Status | Difficulty
+----------|----------|--------|------------|
+[Fizz Buzz](https://www.codeeval.com/open_challenges/1/) | Lua | Complete | Easy
+[Reverse Words](https://www.codeeval.com/open_challenges/8/) | Go | Complete | Easy
+[Chardonnay or Cabernet](https://www.codeeval.com/open_challenges/211/) | Python 2.7 | Complete | Medium
+[Detecting Cycles](https://www.codeeval.com/open_challenges/5/) | JavaScript | Incomplete | Medium
+[The Frequency](https://www.codeeval.com/open_challenges/168/) | Ruby | Incomplete | Hard
