@@ -1,3 +1,4 @@
+# finds the recurring pattern of integers
 function find_cycle(data) {
   estimated_cycle = []
   data.forEach();
