@@ -2,11 +2,7 @@
 
 [![Join the chat at https://gitter.im/grantjoy/code-challenges](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/grantjoy/code-challenges?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<<<<<<< HEAD
 Taking on any and all coding challenges!
-=======
-Taking on CodeEval challenges. Anyone is welcome to contribute!
->>>>>>> bf2829f619884a0cb5ad9d663e23f8e631a779dc
 
 ### Challenges
 
