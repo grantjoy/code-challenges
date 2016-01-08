@@ -25,7 +25,7 @@ The message changes are as follows:
     - alternate capitalization of every other letter: first letter is 
     - words are space separated and may include punctuation
     - a message of `This is an e-mail!` becomes `This Si an !lIaM-E`
-  - `bob is a racecar driver` becomes `PALINDROME Si a PALINDROME driver`
+  - `Bob is a racecar driver!` becomes `PALINDROME Si a PALINDROME driver!`
 
 ## Example
 
