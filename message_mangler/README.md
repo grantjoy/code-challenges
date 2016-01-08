@@ -18,12 +18,13 @@ The message changes are as follows:
   - replace the appearance of any palindromes with `PALINDROME`
     - a palindrome is a word that reads the same backward as forward
     - ignore case, `Racecar` would be considered a palindrome
+    - palindromes are still considered words
     - `bob` becomes `PALINDROME`
   - for every other word:
     - reverse the order of the word: first word is forward, second reversed, etc
-    - alternate capitalization of every other letter
+    - alternate capitalization of every other letter: first letter is 
     - words are space separated and may include punctuation
-    - a message of `This is an e-mail!` becomes `this Si an !lIaM-E`
+    - a message of `This is an e-mail!` becomes `This Si an !lIaM-E`
   - `bob is a racecar driver` becomes `PALINDROME Si a PALINDROME driver`
 
 ## Example
