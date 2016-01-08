@@ -60,8 +60,8 @@ END MESSAGE
 ]
 ```
 
-## Goal
+## Goals
 
-The program to handle this input and output should be able to handle very large files (100 MB+) with very long messages.
+The program should be able to handle very large files (100 MB+) with very long messages. Avoid storing too much data in memory.
 
-The program will be evaluated for efficiency and completeness.
+It will be evaluated for efficiency and completeness.
