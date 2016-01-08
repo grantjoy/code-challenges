@@ -11,6 +11,7 @@ Challenge | Language | Status | Difficulty
 [Fizz Buzz](https://www.codeeval.com/open_challenges/1/) | Lua | Complete | Easy
 [Reverse Words](https://www.codeeval.com/open_challenges/8/) | Go | Complete | Easy
 [Chardonnay or Cabernet](https://www.codeeval.com/open_challenges/211/) | Python 2.7 | Complete | Easy
+[Funky Strings](https://github.com/grantjoy/code-challenges/tree/master/funky_strings) | Ruby | Complete | Easy
 [Stack Implementation](https://www.codeeval.com/open_challenges/9/) | Ruby | Complete | Medium
 [Detecting Cycles](https://www.codeeval.com/open_challenges/5/) | JavaScript | Incomplete | Medium
 [Stack Machine](https://github.com/grantjoy/code-challenges/tree/master/stack_machine) | Ruby | Complete | Medium
