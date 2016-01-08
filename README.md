@@ -13,5 +13,5 @@ Challenge | Language | Status | Difficulty
 [Chardonnay or Cabernet](https://www.codeeval.com/open_challenges/211/) | Python 2.7 | Complete | Easy
 [Stack Implementation](https://www.codeeval.com/open_challenges/9/) | Ruby | Complete | Medium
 [Detecting Cycles](https://www.codeeval.com/open_challenges/5/) | JavaScript | Incomplete | Medium
-[Stack Machine]() | Ruby | Complete | Medium
+[Stack Machine](https://github.com/grantjoy/code-challenges/tree/master/stack_machine) | Ruby | Complete | Medium
 [The Frequency](https://www.codeeval.com/open_challenges/168/) | Ruby | Incomplete | Hard
