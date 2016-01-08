@@ -22,7 +22,7 @@ The message changes are as follows:
     - `bob` becomes `PALINDROME`
   - for every other word:
     - reverse the order of the word: first word is forward, second reversed, etc
-    - alternate capitalization of every other letter: first letter is 
+    - alternate capitalization of every other letter: first letter is capital, second lowercase, etc 
     - words are space separated and may include punctuation
     - a message of `This is an e-mail!` becomes `This Si an !lIaM-E`
   - `Bob is a racecar driver!` becomes `PALINDROME Si a PALINDROME driver!`
