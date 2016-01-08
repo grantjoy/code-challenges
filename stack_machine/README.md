@@ -48,7 +48,7 @@ For example, given `13+62*7+*` the function should return `76`, as explained in 
 
 For each line in the input file, the output will contain a line with the output.
 
-Input Example:
+### Input Example:
 ```
 13+62*7+*
 55+2*
@@ -56,7 +56,7 @@ Input Example:
 +
 ```
 
-Output Example:
+### Output Example:
 ```
 76
 20
