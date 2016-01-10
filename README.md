@@ -6,10 +6,10 @@ Taking on coding challenges and writing now ones.
 
 ### Homemade Challenges
 
-| Challenge |
-|-----------|
-| [Message Mangler](https://github.com/grantjoy/code-challenges/tree/master/message_mangler) |
-| [Stack Machine](https://github.com/grantjoy/code-challenges/tree/master/stack_machine) |
+Challenge | Difficulty
+----------|-----------
+[Message Mangler](https://github.com/grantjoy/code-challenges/tree/master/message_mangler) | Medium
+[Stack Machine](https://github.com/grantjoy/code-challenges/tree/master/stack_machine) | Medium
 
 ### CodeEval Challenges
 
