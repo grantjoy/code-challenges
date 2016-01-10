@@ -1,4 +1,4 @@
-# Message Mangler Challenge
+# Message Mangler Coding Challenge
 
 ## Challenge
 
