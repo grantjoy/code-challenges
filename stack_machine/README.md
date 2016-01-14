@@ -42,7 +42,7 @@ character 	| comment                | stack
  `*`        | perform multiplication |
             |                        | 76
 
-The machine will return `76` as the result as it is the topmost element of its stack at completion. If there was a problem with the input string, the machine would return `-1`.
+The machine will return `76` as the result as it is the topmost element of its stack at completion. If there was a problem with the input string, the machine would print `-1` and move on to the next line.
 
 For example, given `13+62*7+*` the function should return `76`, as explained in the example above. Given `11++` the function should return `-1`.
 
@@ -52,16 +52,16 @@ For each line in the input file, the output will contain a line with the output.
 ```
 13+62*7+*
 55+2*
-9999+**
 +
+9999+**
 ```
 
 ### Output Example:
 ```
 76
 20
-1458
 -1
+1458
 ```
 
 
