@@ -2,7 +2,7 @@
 
 ## Challenge
 
-You are given a series of large files containing email messages.
+You are given a series of large files containing email messages in UTF-8 format.
 You are tasked with reading the file, making changes to the messages and writing the new output to a new file.
 The output file is structured as a JSON array containing `subject` and `message`.
 
@@ -51,18 +51,17 @@ END MESSAGE
 ### Converted example:
 
 ```
-[
-  "subject": "hello",
-  "message": "Hello PALINDROME, how ErA you?"
-],
-[
-  "subject": "RE: hello",
-  "message": "Hi EcIlA, I'm LlEw, thanks RoF asking!"
-]
+[{
+	"subject": "hello",
+	"message": "Hello PALINDROME, how ErA you?"
+}, {
+	"subject": "RE: hello",
+	"message": "Hi EcIlA, I'm LlEw, thanks RoF asking!"
+}]
 ```
 
 ## Goals
 
 The program should be able to handle very large files (100 MB+) with very long messages. Avoid storing too much data in memory.
-
 It will be evaluated for efficiency and completeness.
+Tests are nice but not required.
