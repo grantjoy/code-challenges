@@ -53,6 +53,7 @@ For each line in the input file, the output will contain a line with the output.
 13+62*7+*
 55+2*
 +
+99
 9999+**
 ```
 
@@ -60,6 +61,7 @@ For each line in the input file, the output will contain a line with the output.
 ```
 76
 20
+-1
 -1
 1458
 ```
