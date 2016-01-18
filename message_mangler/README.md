@@ -56,7 +56,7 @@ END MESSAGE
 	"message": "Hello PALINDROME, how ErA you?"
 }, {
 	"subject": "RE: hello",
-	"message": "Hi EcIlA, I'm LlEw, thanks RoF asking!"
+	"message": "Hi ,eCiLa I'm ,lLeW thanks RoF asking!"
 }]
 ```
 
