@@ -3,12 +3,12 @@
 ## Goal
 
 Write a program that accepts two arguments: the input file name and the second is the output file name.
-The input file contains strings of characters to be parsed/ The output file will contain the results of each line.
+The input file contains strings of characters to be parsed. The output file will contain the results of each line.
 This can be completed in any programming language.
 
 ## Challenge
 
-A stack machine is a simple system that performs arithmetic operations on an input string of numbers and operators. It contains a stack that can store an arbitrary number of 12-bit unsigned integers. Initially the stack is empty. The machine processes a string of characters in the following way:
+A stack machine is a simple system that performs arithmetic operations on an input string of numbers and operators. It contains a stack that can store an arbitrary number of single character (0-9) integers. Initially the stack is empty. The machine processes a string of characters in the following way:
 
 - the characters of the string are processed one by one;
 - if the current character is a digit `[0-9]`, the machine pushes the value of that digit onto its stack;
