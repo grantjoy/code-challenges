@@ -62,6 +62,6 @@ END MESSAGE
 
 ## Goals
 
-The program should be able to handle very large files (100 MB+) with very long messages. Avoid storing too much data in memory.
+The program should be able to handle very large files (1 terabyte) with very long messages.
 It will be evaluated for efficiency and completeness.
 Tests are nice but not required.
