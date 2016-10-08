@@ -3,7 +3,7 @@
 ## Challenge
 
 You are given a series of large files containing email messages in UTF-8 format.
-You are tasked with reading the file, making changes to the messages and writing the new output to a new file.
+You are tasked with reading the files, making changes to the messages and writing the new output to a new file.
 The output file is structured as a JSON array containing `subject` and `message`.
 
 ### File Format
