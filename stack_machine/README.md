@@ -20,7 +20,7 @@ A stack machine is a simple system that performs arithmetic operations on an inp
 
 For example, given the string `13+62*7+*` the machine will perform the following operations:
 
-character 	| comment                | stack
+ character 	| comment                | stack
  -----------|------------------------|----------
             |                        | [empty]
  `1`        | push 1 onto the stack  |
