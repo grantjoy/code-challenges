@@ -21,3 +21,7 @@ Challenge | Language | Status | Difficulty
 [Stack Implementation](https://www.codeeval.com/open_challenges/9/) | Ruby | Complete | Medium
 [Detecting Cycles](https://www.codeeval.com/open_challenges/5/) | JavaScript | Incomplete | Medium
 [The Frequency](https://www.codeeval.com/open_challenges/168/) | Ruby | Incomplete | Hard
+
+## 2021 Update
+
+CodeEval has unfortunately been shut down so the links here no longer function.
